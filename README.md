@@ -2,5 +2,6 @@
 
 ### I'm xavierror
 
-- 🌝 Get busy living
-- 🌚 Get busy dying
+- 🌝 Hello.
+- 🌝 Get busy dying
+- 🌝 Or get busy living
