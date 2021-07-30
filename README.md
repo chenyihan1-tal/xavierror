@@ -2,6 +2,6 @@
 
 ### I'm xavierror
 
-- 🌝 Hello.
-- 🌝 Get busy dying
-- 🌝 Or get busy living
+- 第一，绝对不意气用事.
+- 第二，绝对不漏判任何一件坏事.
+- 第三，绝对裁判的公正漂亮.
