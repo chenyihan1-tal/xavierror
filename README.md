@@ -1,4 +1,4 @@
-<pre style='background-color: #fff;'>
+<pre style="background-color: #fff !important;">
 __  __    ___     _____ _____ ____  
 \ \/ /   / \ \   / /_ _| ____|  _ \ 
  \  /   / _ \ \ / / | ||  _| | |_) |
@@ -6,6 +6,8 @@ __  __    ___     _____ _____ ____
 /_/\_\/_/   \_\_/  |___|_____|_| \_\
 </pre>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xavierror&hide=css,html&layout=compact&card_width=446&theme=algolia)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xavierror&hide=css,html&layout=compact&card_width=446&theme=algolia) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xavierror&hide=css,html&layout=compact&card_width=446)
 
-![](https://github-readme-stats.vercel.app/api?username=xavierror&show_icons=true&theme=algolia&hide=contribs&count_private=true&include_all_commits=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=xavierror&show_icons=true&theme=algolia&hide=contribs&count_private=true&include_all_commits=true) -->
+![](https://github-readme-stats.vercel.app/api?username=xavierror&show_icons=true&hide=contribs&count_private=true&include_all_commits=true)
